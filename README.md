@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StuGig
 
 StuGig is a full-stack freelance marketplace with:
@@ -67,3 +68,7 @@ Open the frontend at http://localhost:5173 and the backend at http://localhost:5
 ## Notes
 - The Stripe integration is ready for test mode, but payments will only work when a valid `STRIPE_KEY` is configured.
 - The admin panel requires a user with the `admin` role.
+=======
+# Stugig
+StuGig is a full-stack freelance marketplace connecting job posters with freelancers — featuring secure Stripe payments, JWT authentication, real-time messaging, reviews, and file uploads. Built with Node.js, Express, MongoDB, and React.
+>>>>>>> 5f2168bcc5fd9ec2da5f5527a2879a29577755ad
